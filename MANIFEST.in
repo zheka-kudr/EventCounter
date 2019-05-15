@@ -1,0 +1,3 @@
+setup.py
+include eventPackage/eventCounter.py
+include eventPackage/__init__.py
